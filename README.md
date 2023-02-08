@@ -127,6 +127,15 @@ pip install ethereum
 **NOTE: the wallet balance is down .49 Ether from 100, because it incluces the .19 Ether paid in this example for 1 hour of work to Jo, and .30 Ether paid to the second address listed (which was done in a previous transaction not covered in this project)**
 
 ---
+# Additonal Screenshots of Transaction
+Hashtag from Streamlit app, of the completed transaction.
+<img  src="./Images/transaction_hash.png"  width="300" />
+
+Ganache Dashboard, Transactions tab, showing transaction occured (same screenshot as from step 5 above).
+<img  src="./Images/ganache_transaction.png"  width="600" />
+
+Within the screenshot above, click on the "to Contract Address" and get the following screen showing details more clearly.
+<img  src="./Images/transaction_details.png"  width="600" />
 
 # Contributors
 
